@@ -1,0 +1,9 @@
+# READ ME #
+
+## Create venv, add pip, and install dependecies ##
+
+.\setup.ps1
+
+## Deactivate venv ##
+
+deactivate
